@@ -1,4 +1,4 @@
-# Quiz #2 - RESTful API
+# Quiz #2 - RESTful API (Retake)
 
 ### ป้อนข้อมูลนักศึกษา
 
@@ -7,8 +7,8 @@
 ชื่อ-สกุล :
 
 ---
-- ให้ นศ. ทำการ Fork repo นี้ไปเป็นของ นศ. โดยให้กำหนดชื่อในรูปแบบ <github_username>/quiz2**xx**-<student_id> โดย **xx** คือ **หมายเลขที่นั่งของ นศ.**
-  - เช่น  `awesome_code/quiz207-680610999` (เลขที่นั่ง คือ `7`)
+- ให้ นศ. ทำการ Fork repo นี้ไปเป็นของ นศ. โดยให้กำหนดชื่อในรูปแบบ <github_username>/quiz2**xx**-retake-<student_id> โดย **xx** คือ **หมายเลขที่นั่งของ นศ.**
+  - เช่น  `awesome_code/quiz207-retake-680610999` (เลขที่นั่ง คือ `7`)
 - ให้ นศ. Clone โค้ดจาก repo ของ นศ. แล้ว ให้เปิดโฟลเดอร์ด้วย VSCode และรันคำสั่งต่อไปนี้ใน terminal:
 
 ```bash
