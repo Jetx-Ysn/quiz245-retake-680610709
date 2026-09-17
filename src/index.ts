@@ -6,6 +6,21 @@ import morgan from "morgan";
 const app = express();
 const port = 3000;
 
+// Get /students information
+app.get ('/students', (req: Request, res: Response) => {
+  res.status(200).json({
+    success: true,
+    message: "Student Information",
+    data: {
+      "studentId": "680610709",
+      "firstName": "Yotsanon",
+      "lastName": "Aimsamaoh",
+      "section": "001",
+    }
+  })
+});
+
+
 // body parser middleware
 app.use(express.json());
 
